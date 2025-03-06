@@ -1,7 +1,7 @@
 # Retail Store Database Evaluation Internship
 
 ## Overview
-This repository documents my 15-day internship dedicated to evaluating a **music store database**. The focus of this project was on refining the database structure, enhancing query performance, and ensuring data integrity in the music retail environment. The internship allowed me to delve into SQL, MySQL, and PostgreSQL and apply that knowledge to optimize real-world data management systems.
+This repository documents internship dedicated to evaluating a **retail store database**. The focus of this project was on refining the database structure, enhancing query performance, and ensuring data integrity in the music retail environment. The internship allowed me to delve into SQL, MySQL, and PostgreSQL and apply that knowledge to optimize real-world data management systems.
 
 ## Project Background
 The music store database plays a critical role in managing customer details, inventory, and transaction records. The goal of this project was to evaluate the existing database structure, optimize queries, and enhance data integrity to improve overall efficiency and ensure alignment with industry standards.
