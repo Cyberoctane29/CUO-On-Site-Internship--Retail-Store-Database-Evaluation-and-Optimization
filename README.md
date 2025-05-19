@@ -42,8 +42,3 @@ Indexing strategies were employed to enhance query performance, especially for l
 
 ## Conclusion
 This internship provided valuable hands-on experience in database management, allowing me to apply theoretical knowledge in a practical setting. The comprehensive evaluation and optimization of the music store database contributed to improving its efficiency and ensuring it aligns with industry best practices.
-
----
-
-### Contact
-For more information, feel free to reach out or review the project documentation included in this repository.
