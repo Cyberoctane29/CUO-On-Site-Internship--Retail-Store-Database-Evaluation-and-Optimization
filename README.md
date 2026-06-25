@@ -1,4 +1,4 @@
-# Music Retail Sales Analysis using SQL
+# Music Retail Sales Analysis using SQL (Internship Project)
 
 ## About
 
