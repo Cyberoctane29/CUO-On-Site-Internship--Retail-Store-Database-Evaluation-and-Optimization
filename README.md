@@ -1,44 +1,95 @@
-# Music Retail Store Database Evaluation Internship
+# Music Retail Sales Analysis using SQL
 
-## Overview
-This repository documents internship dedicated to evaluating a **retail store database**. The focus of this project was on refining the database structure, enhancing query performance, and ensuring data integrity in the music retail environment. The internship allowed me to delve into SQL, MySQL, and PostgreSQL and apply that knowledge to optimize real-world data management systems.
+## About
 
-## Project Background
-The music store database plays a critical role in managing customer details, inventory, and transaction records. The goal of this project was to evaluate the existing database structure, optimize queries, and enhance data integrity to improve overall efficiency and ensure alignment with industry standards.
+This repository showcases my internship project completed at the **Central University of Odisha**, where I analyzed a relational music retail database using SQL to answer real-world business questions. The project focused on customer behavior, sales performance, revenue analysis, genre preferences, and query optimization while strengthening my understanding of relational databases and analytical problem-solving.
 
-In today’s fast-paced music industry, effective database management is essential for operational efficiency, accurate inventory tracking, and smooth customer transactions. This project aimed to both address inefficiencies and future-proof the database in line with modern industry practices.
+---
 
-## Learning Objectives
-Throughout the internship, I focused on the following key objectives:
+# Project Overview
 
-- **Database Assessment:** Develop expertise in assessing and evaluating database schemas, focusing on identifying inefficiencies.
-- **Query Optimization:** Gain proficiency in identifying slow-performing queries and implementing strategies to enhance query performance.
-- **Data Integrity:** Improve skills in assessing and maintaining data quality, identifying inconsistencies, and proposing solutions.
-- **Indexing Strategies:** Master the implementation of indexing strategies to improve database performance.
-- **Database Security:** Explore user permissions, access control, and implement robust security practices.
-- **Documentation & Backup:** Emphasize the importance of documenting database schemas and implementing backup/recovery procedures.
+The project uses a relational music store database containing customer, invoice, track, album, artist, and genre information.
 
-## Project Methodology
+Rather than building the database from scratch, the objective was to analyze existing transactional data, evaluate query performance, validate data quality, and generate meaningful business insights using SQL.
 
-### Database Schema Analysis
-A detailed review of the existing database schema was conducted to gain a deep understanding of the structure, relationships, and constraints within the database. This foundational step allowed me to identify areas for optimization.
+The project was implemented using **SQL, MySQL, PostgreSQL**, and later reproduced in **Python (Pandas + DuckDB)** to create a portable notebook version.
 
-### Query Optimization
-I evaluated slow-performing queries, implemented various optimization strategies, and focused on improving query execution times. This involved tuning SQL statements, restructuring queries, and using proper indexing techniques.
+---
 
-### Data Quality and Integrity
-Ensuring high data quality was paramount. I reviewed the database for inconsistencies, redundancies, and inaccuracies, implementing solutions to maintain a clean and consistent data environment.
+# Business Questions Solved
 
-### Indexing and Security
-Indexing strategies were employed to enhance query performance, especially for large datasets. In addition, a comprehensive review of database security measures was performed, focusing on user permissions and access control to ensure data protection.
+The analysis answers several practical business questions, including:
 
-## Project Outcomes
+* Who is the highest-spending customer?
+* Which city generates the highest revenue?
+* Which countries generate the most invoices?
+* Which music genres are most popular by country?
+* Which artists generate the highest customer spending?
+* Which customers spend the most on each artist?
+* Which tracks are longer than the average song length?
+* Which customers are the top spenders within each country?
 
-- **Refined Database Structure:** The music store database was optimized for better performance and data management.
-- **Query Optimization:** Significant improvements in query execution times were achieved, ensuring smoother operations.
-- **Improved Data Integrity:** The project resulted in enhanced data consistency, reliability, and overall database integrity.
-- **Documentation:** Thorough documentation of the database schema, indexing strategies, and optimization techniques was provided for future reference.
-- **Security Enhancements:** User permissions and access control were reinforced to ensure a secure database environment.
+---
 
-## Conclusion
-This internship provided valuable hands-on experience in database management, allowing me to apply theoretical knowledge in a practical setting. The comprehensive evaluation and optimization of the music store database contributed to improving its efficiency and ensuring it aligns with industry best practices.
+# SQL Concepts Demonstrated
+
+Throughout this project I applied:
+
+* Multi-table JOINs
+* Common Table Expressions (CTEs)
+* Aggregate Functions
+* GROUP BY and HAVING
+* Nested Subqueries
+* Data Aggregation
+* Query Optimization
+* Relational Schema Analysis
+* Data Validation
+
+---
+
+# Tech Stack
+
+* SQL
+* PostgreSQL
+* MySQL
+* Python
+* Pandas
+* DuckDB
+* Jupyter Notebook
+* Excel
+
+---
+
+# Key Learning Outcomes
+
+During this internship I gained practical experience in:
+
+* Writing analytical SQL for transactional retail datasets
+* Understanding relational database schemas and table relationships
+* Optimizing SQL queries for improved analytical efficiency
+* Validating customer, invoice, and sales data
+* Extracting business insights from relational data
+* Communicating findings through technical reports and presentations
+
+---
+
+# Repository Contents
+
+* SQL queries solving beginner to advanced business problems
+* Query explanations with intuition and optimization discussions
+* Kaggle notebook implementation using Python and DuckDB
+* Internship report
+* Presentation slides
+* Project documentation
+
+---
+
+# Key Skills
+
+SQL • PostgreSQL • MySQL • Data Analysis • Business Analytics • Query Optimization • Relational Databases • Data Validation • Customer Analytics • Sales Analysis
+
+---
+
+# Conclusion
+
+This internship provided hands-on experience in applying SQL to solve business problems using real-world retail data. Beyond writing complex SQL queries, the project strengthened my ability to analyze customer purchasing behavior, evaluate transactional data, optimize analytical queries, and communicate insights—skills directly applicable to Data Analyst and Business Intelligence roles.
