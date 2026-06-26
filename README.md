@@ -1,4 +1,4 @@
-# Music Retail Sales Analysis using SQL (Internship Project)
+# **CUO On-Site Internship: Music Retail Sales Analysis using SQL**
 
 ## About
 
